@@ -1,0 +1,53 @@
+[
+    {
+      "title": "Aperol Sprtiz",
+      "price": "$20",
+      "tags": "Aperol | Villa Marchesi prosecco | soda | 30 ml"
+    },
+    {
+      "title": "Dark 'N' Stormy",
+      "price": "$16",
+      "tags": "Dark rum | Ginger beer | Slice of lime"
+    },
+    {
+      "title": "Daiquiri",
+      "price": "$10",
+      "tags": "Rum | Citrus juice | Sugar"
+    },
+    {
+      "title": "Old Fashioned",
+      "price": "$31",
+      "tags": "Bourbon | Brown sugar | Angostura Bitters"
+    },
+    {
+      "title": "Negroni",
+      "price": "$26",
+      "tags": "Gin | Sweet Vermouth | Campari | Orange garnish"
+    },
+    {
+      "title": "Martini",
+      "price": "$22",
+      "tags": "Gin | Dry Vermouth | Olive garnish"
+    },
+    {
+      "title": "Margarita",
+      "price": "$14",
+      "tags": "Tequila | Lime juice | Triple sec | Salt rim"
+    },
+    {
+      "title": "Mojito",
+      "price": "$18",
+      "tags": "White rum | Lime | Mint | Soda water | Sugar"
+    },
+    {
+      "title": "Pina Colada",
+      "price": "$12",
+      "tags": "Rum | Coconut cream | Pineapple juice"
+    },
+    {
+      "title": "Whiskey Sour",
+      "price": "$15",
+      "tags": "Bourbon | Lemon juice | Sugar"
+    }
+  ]
+  
